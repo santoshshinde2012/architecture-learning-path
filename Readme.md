@@ -103,7 +103,7 @@
             7. KPI's - identifying these early and often is mega important
             8. Do I have Devops? If not then keep deployment as simple as possible - this is a good rule of thumb anyways but can be relaxed for speed if dedicated devops is available
         7. Prioritize iteration speed - productive developer workflow is paramount and will pay dividends
-3. **Weekly Tech Subscriptions (* Beside the ones I NEVER skip reading)**
+3. **Weekly Tech Subscriptions (\* Beside the ones I NEVER skip reading)**
     1. Serverless Weekly - [https://serverless.email/](https://serverless.email/)
     2. NodeJS Weekly* - [https://nodeweekly.com/](https://nodeweekly.com/)
     3. Javascript Weekly - [https://javascriptweekly.com/](https://javascriptweekly.com/)
