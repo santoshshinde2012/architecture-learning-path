@@ -126,7 +126,7 @@
     3. Microservices
     4. Event Sourced and Event Driven / CQRS
 
-        [Joys Of Event Sourcing NodeJS](Jay's%20Ultimate%20Architecture%20Toolkit%201fad9efec97d4013a82ae024a0784762/Joys%20Of%20Event%20Sourcing%20NodeJS%203d9607cc63ab4d718095bd3d66ca85a2.md)
+        [Joys Of Event Sourcing NodeJS](event-sourcing.md)
 
 6. **Sample Apps That Can Help You Learn Anything**
     1. Todo List
