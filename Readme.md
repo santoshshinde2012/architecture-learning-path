@@ -9,6 +9,7 @@
         3. [The 12 Factor App](https://12factor.net/)
         4. [Clean Architecture](Jay's%20Ultimate%20Architecture%20Toolkit%201fad9efec97d4013a82ae024a0784762/https%20www%20amazon%20com%20Clean-Architecture-Craftsmans%2059062d9a7ff548349b597a35e2d2af65.md)
             - [https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+        5. [Architecture For Devs](https://leanpub.com/software-architecture-for-developers)
 
     2. **Core Skills** - specialize in 1, at least be familiar with the pieces in each
         1. **Backend**
