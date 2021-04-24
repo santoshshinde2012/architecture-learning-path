@@ -105,15 +105,15 @@
             8. Do I have Devops? If not then keep deployment as simple as possible - this is a good rule of thumb anyways but can be relaxed for speed if dedicated devops is available
         7. Prioritize iteration speed - productive developer workflow is paramount and will pay dividends
 3. **Weekly Tech Subscriptions (\* Beside the ones I NEVER skip reading)**
-    1. Serverless Weekly - [https://serverless.email/](https://serverless.email/)
+    1. Serverless Weekly* - [https://serverless.email/](https://serverless.email/)
     2. NodeJS Weekly* - [https://nodeweekly.com/](https://nodeweekly.com/)
     3. Javascript Weekly - [https://javascriptweekly.com/](https://javascriptweekly.com/)
     4. Kubernetes Weekly - [https://kubeweekly.io/](https://kubeweekly.io/)
     5. Frontend Focus - [https://frontendfoc.us/](https://frontendfoc.us/)
     6. React Weekly - [https://react.statuscode.com/](https://react.statuscode.com/)
-    7. Postgres Weekly* - [https://postgresweekly.com/](https://postgresweekly.com/)
+    7. Postgres Weekly - [https://postgresweekly.com/](https://postgresweekly.com/)
     8. DB weekly* - [https://dbweekly.com/](https://dbweekly.com/)
-    9. MongoDB Memo* - [https://mongodb.email/](https://mongodb.email/)
+    9. MongoDB Memo - [https://mongodb.email/](https://mongodb.email/)
     10. Hacker News Weekly  - [https://hackernewsletter.com/](https://hackernewsletter.com/)
     11. Deno Weekly - [https://denoweekly.com/](https://denoweekly.com/)
     12. Architect lessons - [https://www.developertoarchitect.com/lessons/](https://www.developertoarchitect.com/lessons/)
@@ -144,3 +144,5 @@
     - [https://syntax.fm/](https://syntax.fm/)
     - [https://www.indiehackers.com/podcast](https://www.indiehackers.com/podcast)
     - [https://anchor.fm/profitablepythonfm](https://anchor.fm/profitablepythonfm)
+9. **Systems Design**
+    - https://github.com/donnemartin/system-design-primer/blob/master/README.md#system-design-topics-start-here
