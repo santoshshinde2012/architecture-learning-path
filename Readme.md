@@ -1,4 +1,4 @@
-# Jay's Ultimate Architecture Resources
+# Architecture Resources
 
 **Becoming A Software Architect:**
 
