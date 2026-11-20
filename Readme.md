@@ -146,3 +146,7 @@
     - [https://anchor.fm/profitablepythonfm](https://anchor.fm/profitablepythonfm)
 9. **Systems Design**
     - https://github.com/donnemartin/system-design-primer/blob/master/README.md#system-design-topics-start-here
+
+## Support
+
+[![Buy Me a Coffee](https://img.shields.io/badge/buymeacoffee-black?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/santoshshin)
